@@ -1,5 +1,5 @@
 # eecsg
-Here, I post things that I working or thinking about. You can contact me over Keybase (eecsg on Keybase).
+Here, I post things that I'm working or thinking about. You can contact me over Keybase (eecsg on Keybase).
 
 ## Posts
   {% for post in site.posts %}
