@@ -1,9 +1,7 @@
 Here, I post things that I'm working or thinking about. You can contact me over Keybase (**eecsg** on Keybase).
 
 <div class="card">
-<div class="card-header>
-## Posts
-</div>
+<h2 class="card-header">Posts</h2>
 <div class="card-body">
   {% for post in site.posts %}
   <article>
