@@ -1,6 +1,10 @@
 Here, I post things that I'm working or thinking about. You can contact me over Keybase (**eecsg** on Keybase).
 
+<div class="card">
+<div class="card-header>
 ## Posts
+</div>
+<div class="card-body">
   {% for post in site.posts %}
   <article>
     <ul>
@@ -8,3 +12,5 @@ Here, I post things that I'm working or thinking about. You can contact me over 
     </ul>
   </article>
   {% endfor %}
+</div>
+</div>
